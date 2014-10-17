@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yrb:home|Door43 (yrb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yrb|d43-yrb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yrb/archive/master.zip|d43-yrb.zip]]
+
+**Recent Changes**
+{{changes>ns = yrb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yrb|Ethnologue data]]
+
